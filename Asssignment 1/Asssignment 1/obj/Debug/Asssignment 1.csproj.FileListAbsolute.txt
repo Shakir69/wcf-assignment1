@@ -1,0 +1,7 @@
+C:\Users\shaki\Desktop\WCF\wcf-assignment1\Asssignment 1\Asssignment 1\bin\Asssignment 1.dll.config
+C:\Users\shaki\Desktop\WCF\wcf-assignment1\Asssignment 1\Asssignment 1\bin\Asssignment 1.dll
+C:\Users\shaki\Desktop\WCF\wcf-assignment1\Asssignment 1\Asssignment 1\bin\Asssignment 1.pdb
+C:\Users\shaki\Desktop\WCF\wcf-assignment1\Asssignment 1\Asssignment 1\obj\Debug\Asssignment 1.csproj.AssemblyReference.cache
+C:\Users\shaki\Desktop\WCF\wcf-assignment1\Asssignment 1\Asssignment 1\obj\Debug\Asssignment 1.csproj.CoreCompileInputs.cache
+C:\Users\shaki\Desktop\WCF\wcf-assignment1\Asssignment 1\Asssignment 1\obj\Debug\Asssignment 1.dll
+C:\Users\shaki\Desktop\WCF\wcf-assignment1\Asssignment 1\Asssignment 1\obj\Debug\Asssignment 1.pdb

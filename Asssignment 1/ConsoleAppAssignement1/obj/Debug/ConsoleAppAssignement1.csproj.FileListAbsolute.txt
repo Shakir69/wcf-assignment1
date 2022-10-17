@@ -1,0 +1,7 @@
+C:\Users\shaki\Desktop\WCF\wcf-assignment1\Asssignment 1\ConsoleAppAssignement1\obj\Debug\ConsoleAppAssignement1.csproj.AssemblyReference.cache
+C:\Users\shaki\Desktop\WCF\wcf-assignment1\Asssignment 1\ConsoleAppAssignement1\obj\Debug\ConsoleAppAssignement1.csproj.CoreCompileInputs.cache
+C:\Users\shaki\Desktop\WCF\wcf-assignment1\Asssignment 1\ConsoleAppAssignement1\bin\Debug\ConsoleAppAssignement1.exe.config
+C:\Users\shaki\Desktop\WCF\wcf-assignment1\Asssignment 1\ConsoleAppAssignement1\bin\Debug\ConsoleAppAssignement1.exe
+C:\Users\shaki\Desktop\WCF\wcf-assignment1\Asssignment 1\ConsoleAppAssignement1\bin\Debug\ConsoleAppAssignement1.pdb
+C:\Users\shaki\Desktop\WCF\wcf-assignment1\Asssignment 1\ConsoleAppAssignement1\obj\Debug\ConsoleAppAssignement1.exe
+C:\Users\shaki\Desktop\WCF\wcf-assignment1\Asssignment 1\ConsoleAppAssignement1\obj\Debug\ConsoleAppAssignement1.pdb
